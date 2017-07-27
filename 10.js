@@ -4,6 +4,7 @@ sdasdasd
 3333
 4444
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -12,6 +13,9 @@ sdasdasd
 =======
 6666
 >>>>>>> dev
+=======
+5555
+>>>>>>> Stashed changes
 =======
 5555
 >>>>>>> Stashed changes
