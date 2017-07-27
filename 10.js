@@ -27,6 +27,7 @@ sdasdasd
 
 
 
+<<<<<<< Updated upstream
 
 
 
@@ -34,3 +35,6 @@ sdasdasd
 
 
 sssssssssssss
+=======
+xxxxxxxxxxxxx
+>>>>>>> Stashed changes
